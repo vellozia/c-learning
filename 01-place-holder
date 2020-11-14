@@ -1,0 +1,9 @@
+// Program 1 : place holder % - used to hold a place for any data
+
+#include<stdio.h>
+
+int main()
+{
+    printf("The numbers are: %d and %d", 40,50);
+    return 0;
+}
